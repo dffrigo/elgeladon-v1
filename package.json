@@ -1,0 +1,27 @@
+{
+  "name": "elgeladon-v1",
+  "version": "1.0.0",
+  "description": "> CRUD El Geladon Ice | Ice | Summertime",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dffrigo/elgeladon-v1.git"
+  },
+  "author": "DFF",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dffrigo/elgeladon-v1/issues"
+  },
+  "homepage": "https://github.com/dffrigo/elgeladon-v1#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
